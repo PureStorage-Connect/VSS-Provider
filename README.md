@@ -7,7 +7,7 @@ Pure Storage Volume Shadow Copy Service (VSS) Hardware Provider.
 
 ##Release History
 Full release history can be viewed on the Pure1 Community.
-* 1.0.3 - April 2016
-* [1.0.2](http://community.purestorage.com/t5/Pure-Customer-Knowledge-Base/Pure1-Connect-VSS-Hardware-Provider/ta-p/7467#VSS_1.0.2) - March 2016
-* [1.0.1](http://community.purestorage.com/t5/Pure-Customer-Knowledge-Base/Pure1-Connect-VSS-Hardware-Provider/ta-p/7467#VSS_1.0.1) - June 2015
-* [1.0.0](http://community.purestorage.com/t5/Pure-Customer-Knowledge-Base/Pure1-Connect-VSS-Hardware-Provider/ta-p/7467#VSS_1.0.0) - July 2014
+* [1.0.3](https://support.purestorage.com/Solutions/Operating_Systems/Microsoft_Windows/VSS_Hardware_Provider#Pure_Storage_VSS_Provider_1.0.3_Release_Notes) - April 2016
+* [1.0.2](https://support.purestorage.com/Solutions/Operating_Systems/Microsoft_Windows/VSS_Hardware_Provider#Pure_Storage_VSS_Provider_1.0.2_Release_Notes) - March 2016
+* [1.0.1](https://support.purestorage.com/Solutions/Operating_Systems/Microsoft_Windows/VSS_Hardware_Provider#Pure_Storage_VSS_Provider_1.0.1_Release_Notes) - June 2015
+* [1.0.0](https://support.purestorage.com/Solutions/Operating_Systems/Microsoft_Windows/VSS_Hardware_Provider#Pure_Storage_VSS_Hardware_Provider_1.0.0_Release_Notes) - July 2014
