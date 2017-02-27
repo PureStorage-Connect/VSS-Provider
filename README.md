@@ -1,9 +1,11 @@
 # Pure Storage Volume Shadow Copy Service Hardware Provider
 Pure Storage Volume Shadow Copy Service (VSS) Hardware Provider.
 
-##Release 1.0.3
-* Fixes an issue that can cause the VSS HW Provider to fail creating or restoring a VSS snapshot in certain scenarios.
+##Release 1.1.0
+* Added support for Pure Arrays with IPv6 addresses.
+* Fixes an issue that can cause the VSS configuration tool to crash if the command line arguments contain Unicode characters
 * This release is compatible with all Purity versions 3.4.3 and higher.
+* IPv6 functionality is compatible with Purity versions 4.9 and higher
 
 ##Release History
 Full release history can be viewed on the Pure1 Community.
