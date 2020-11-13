@@ -1,7 +1,8 @@
 {
     "id": "vss",
+    "name": "Pure VSS Provider",
     "filter": "devops",
     "image": "http://code.purestorage.com/images/10_vss.png",
     "featured": 0,
-    "priority": 2
+    "priority": 1
 }
