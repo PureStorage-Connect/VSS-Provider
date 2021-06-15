@@ -10,7 +10,7 @@ To install the VSS Hardware provider, download the compressed file, uncompress i
 This repository contains the EXE installer in the Releases section located in the right column. The direct download link is below.
 
 ## :point_down: DOWNLOADS
-:small_orange_diamond: [VSS provider executable installer](https://github.com/PureStorage-Connect/VSS-Provider/releases/download/v1.8.0.0/PureVSSProviderInstaller_1.8.0.zip)<br>
+:small_orange_diamond: [VSS provider](https://github.com/PureStorage-Connect/VSS-Provider/releases/download/v1.8.0.0/PureVSSProviderInstaller_1.8.0.zip)<br>
 
 <!-- wp:separator -->
 <hr class="wp-block-separator"/>
