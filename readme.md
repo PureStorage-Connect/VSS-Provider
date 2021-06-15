@@ -5,12 +5,12 @@ The Pure Storage Hardware Provider for Microsoft VSS (Volume Shadow Copy Service
 Refer to the [Microsoft Platform Guide](https://support.purestorage.com/Solutions/Microsoft_Platform_Guide/Microsoft_Integration_Releases/Volume_Shadow_Copy_Service_(VSS)_Hardware_Provider) for full details on this release, OS compatibility, release notes, and the User Guide.
 
 ## :floppy_disk: INSTALLATION
-To install the VSS Hardware provider, download the file and run the executable.
+To install the VSS Hardware provider, download the compressed file, uncompress it, and run the executable.
 
 This repository contains the EXE installer in the Releases section located in the right column. The direct download link is below.
 
 ## :point_down: DOWNLOADS
-:small_orange_diamond: [VSS provider executable installer](https://github.com/PureStorage-Connect/VSS-Provider/blob/master/VSS.exe)<br>
+:small_orange_diamond: [VSS provider executable installer](https://github.com/PureStorage-Connect/VSS-Provider/releases/download/v1.8.0.0/PureVSSProviderInstaller_1.8.0.zip)<br>
 
 <!-- wp:separator -->
 <hr class="wp-block-separator"/>
