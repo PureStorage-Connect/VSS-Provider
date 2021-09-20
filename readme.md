@@ -7,16 +7,14 @@ Refer to the [Microsoft Platform Guide](https://support.purestorage.com/Solution
 ## :floppy_disk: INSTALLATION
 To install the VSS Hardware provider, download the compressed file, uncompress it, and run the executable.
 
-This repository contains the EXE installer in the Releases section located in the right column. The direct download link is below.
-
-## :point_down: DOWNLOADS
-:small_orange_diamond: [VSS provider](https://github.com/PureStorage-Connect/VSS-Provider/releases/download/v1.8.0.0/PureVSSProviderInstaller_1.8.0.zip)<br>
+This repository contains a zip file that includes the installer in the Releases section located in the right column. The direct download link is below.
 
 <!-- wp:separator -->
 <hr class="wp-block-separator"/>
 <!-- /wp:separator -->
 
 ## :date: HISTORY
+* [v1.8.96.0](https://github.com/PureStorage-Connect/VSS-Provider/releases/tag/v1.8.96.0)
 * [v1.8.0.0](https://github.com/PureStorage-Connect/VSS-Provider/releases/tag/v1.8.0.0)
 * [v1.6.0](https://github.com/PureStorage-Connect/VSS-Provider/releases/tag/v1.6.0)
 * [v1.1.0]
